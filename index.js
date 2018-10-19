@@ -112,7 +112,7 @@ function removeFromCart(item) {
 }
 
 
-//
+//5, 17) 
 function placeOrder(cardNumber) {
   // write your code here
 }
