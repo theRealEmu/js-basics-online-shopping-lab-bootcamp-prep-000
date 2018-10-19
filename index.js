@@ -106,7 +106,7 @@ function removeFromCart(item) {
     return "That item is not in your cart."
   }
   
-  cart[isPresentAtIndex].splice(isPresentAtIndex, 1);
+  cart.splice(isPresentAtIndex, 1);
   return cart;
   
 }
